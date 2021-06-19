@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "typeRoots": [
+            "node_modules/@altv",
+        ],
+        "lib": ["es6", "esnext", "es2019"],
+        "removeComments": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "noImplicitReturns": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": false,
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "outDir": "./dist",
+        "rootDir": "./",
+        "target": "ESNext",
+        "module": "ESNext",
+        "allowSyntheticDefaultImports": true,
+        "strict": true
+    },
+    "include": ["./*.ts"],
+}
