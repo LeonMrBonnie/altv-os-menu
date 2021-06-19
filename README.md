@@ -2,6 +2,8 @@
 
 A menu builder written in TypeScript using Vue with Vuetify.
 
+** I DO NOT GIVE SUPPORT FOR THIS! DO NOT ASK ME TO HELP YOU SET THIS UP! **
+
 ## How To Use
 
 1. Clone/Download this repository.
