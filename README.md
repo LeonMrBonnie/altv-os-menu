@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Fc0heaD.png)
+<center>![](https://i.imgur.com/Fc0heaD.png)</center>
 
 # alt:V Open Source Menu
 
