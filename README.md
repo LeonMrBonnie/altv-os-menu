@@ -1,3 +1,5 @@
+![](https://i.imgur.com/Fc0heaD.png)
+
 # alt:V Open Source Menu
 
 A menu builder written in TypeScript using Vue with Vuetify.
