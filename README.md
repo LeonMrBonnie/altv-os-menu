@@ -1,4 +1,6 @@
-<center>![](https://i.imgur.com/Fc0heaD.png)</center>
+<p align="center">
+  <img src="https://i.imgur.com/Fc0heaD.png">
+</p>
 
 # alt:V Open Source Menu
 
